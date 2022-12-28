@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Ethan K. Gordon
+description: PhD Candidate | Univerity of Washington | 'Marvel at Everything'
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "" # root folder
+url: "" # custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
